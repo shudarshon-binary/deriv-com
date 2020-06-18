@@ -4,6 +4,8 @@
 
 
 ## Requirements
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshudarshon-binary%2Fderiv-com.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshudarshon-binary%2Fderiv-com?ref=badge_shield)
+
 
 -   node
 -   npm
@@ -107,3 +109,7 @@ Based on `RELEASE_TARGET` there are 2 types of release:
 2. Release to production:
     1. `git tag production_v20191205 -m 'release production'` # the tag needs to follow the RegExp format `/^production_*/`
     2. `git push origin production_v20191205`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshudarshon-binary%2Fderiv-com.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshudarshon-binary%2Fderiv-com?ref=badge_large)
